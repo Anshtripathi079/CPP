@@ -1,0 +1,2 @@
+this is a text file created for file handling question.
+5653 
