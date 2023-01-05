@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
- 
     ifstream fin("E:\\CPP\\c++ LAB PRACTICAL\\text.txt");
     char ch;
     int i,a=0,s=0,d=0;
