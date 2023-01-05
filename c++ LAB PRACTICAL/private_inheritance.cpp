@@ -36,5 +36,6 @@ int main() {
   cout << "Private cannot be accessed." << endl;
   cout << "Protected = " << object1.getProt() << endl;
   cout << "Public = " << object1.getPub() << endl;
+  cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 07929802021";
   return 0;
 }

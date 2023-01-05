@@ -24,5 +24,6 @@ void Simple :: printData(){
 int main(){
     Simple s(12, 13);
     s.printData();
+    cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 07929802021";
     return 0;
 }

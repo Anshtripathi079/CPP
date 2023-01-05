@@ -91,4 +91,6 @@ int main(){
   student1.Internalexam::displaydata();
   student1.Externalexam::displaydata();
   cout<<"Total marks = "<<student1.totalmarks();
+  cout<<endl;
+  cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 07929802021";
 }

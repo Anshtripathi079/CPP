@@ -11,6 +11,7 @@ using namespace std;
 int main(void) {  
      B p1;  
      cout<<"Salary: "<<p1.salary<<endl;    
-     cout<<"Bonus: "<<p1.bonus<<endl;    
+     cout<<"Bonus: "<<p1.bonus<<endl; 
+     cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 07929802021";   
     return 0;  
 }  

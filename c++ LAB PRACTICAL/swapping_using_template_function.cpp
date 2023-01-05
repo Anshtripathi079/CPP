@@ -1,7 +1,5 @@
-
 #include <iostream>
 using namespace std;
-
 template <class T>
 int swap_numbers(T& x, T& y)
 {
@@ -10,13 +8,13 @@ int swap_numbers(T& x, T& y)
     x = y;
     y = t;
     return 0;
-}
-  
+} 
 int main()
 {
     int a, b;
     a = 10, b = 20;
     swap_numbers(a, b);
     cout << a << " " << b << endl;
+    cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 07929802021";
     return 0;
 }

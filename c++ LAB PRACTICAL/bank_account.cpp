@@ -71,6 +71,7 @@ int main()
   
         CAccount b1(acc_no, name, acc_type, accountBalanceance);  
         b1.func();
-        b1.display(); //
+        b1.display(); 
+        cout<<"Name = Ansh Tripathi"<<endl<<"enrollment no = 07929802021"<<endl;
         return 0;
 }

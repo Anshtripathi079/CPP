@@ -26,4 +26,5 @@ int main(){
     o3.getdata(3);
     o4 = o3;
     o4.showdata();
+    cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 07929802021";
 }

@@ -68,4 +68,5 @@ int main(){
     annual.readdata();
     cout<<"Student details ... "<<endl;
     annual.displaydata();
+    cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 07929802021";
 }

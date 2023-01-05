@@ -26,4 +26,5 @@ int main(){
     else{
         cout<<"Not prime"<<endl;
     }
+    cout<<"Name = Ansh Tripathi"<<endl<<"enrollment no = 07929802021"<<endl;
 }

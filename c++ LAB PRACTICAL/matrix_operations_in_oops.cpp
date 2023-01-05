@@ -76,6 +76,7 @@ int main()
     cout << "Matrix m3 after m1 - m2:" << endl;
     m4.printdata();
     Matrix m5 = m1*m2;
+    cout << "Matrix m3 after m1 * m2:" << endl;
     m5.printdata();
-
+    cout<<"Name = Ansh Tripathi"<<endl<<"enrollment no = 07929802021"<<endl;
 }

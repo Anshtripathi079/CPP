@@ -105,4 +105,5 @@ int main(){
     student.readdata();
     cout<<"Student details ... "<<endl;
     student.displaydata();
+    cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 07929802021";
 }

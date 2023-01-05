@@ -29,5 +29,6 @@ int main()
   
     p1.showdata();
     p2.showdata();
+    cout<<"Name: Ansh Tripathi"<<endl<<"Enrollment no: 07929802021"<<endl;
     return 0;
 }

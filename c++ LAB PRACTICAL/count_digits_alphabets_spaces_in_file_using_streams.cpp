@@ -25,6 +25,6 @@ int main()
     cout<<"\nNo. of Alphabets :: "<<a<<"\n";
     cout<<"\nNo. Of Digits :: "<<d<<"\n";
     cout<<"\nNo. Of White Spaces :: "<<s<<"\n";
-
+    cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 07929802021";
     return 0;
 }

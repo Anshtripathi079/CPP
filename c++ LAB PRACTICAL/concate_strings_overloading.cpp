@@ -24,4 +24,5 @@ int main(){
     c2.getdata();
     c3 = c1+c2;
     c3.showdata();
+    cout<<"Ansh Tripathi"<<" "<<"Enrollment no. 079";
 }
