@@ -1,2 +1,2 @@
 # CPP
-C++ OOPS programs and lab programs
+C++ OOPS and lab programs
