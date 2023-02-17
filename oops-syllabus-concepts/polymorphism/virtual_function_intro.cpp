@@ -12,7 +12,7 @@ class BaseClass{
     public:
         int var_base=1;
         virtual void display(){
-            cout<<"1 Dispalying Base class variable var_base "<<var_base<<endl;
+            cout<<"1 Displaying Base class variable var_base "<<var_base<<endl;
         }
 };
 
